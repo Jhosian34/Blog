@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+h1,h2,h3{
+    font-style:italic;
+    text-decoration: underline;
+}
+p{
+    font-style: normal;
+    font-family: Montserrat;
+}
+hr{
+    border: solid 1px;
+}
+ol,ul{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+img{
+    border-radius: 5%;width: 300px;
+}
+a{
+    text-transform: capitalize;
+    font-size: 20px;
+}
